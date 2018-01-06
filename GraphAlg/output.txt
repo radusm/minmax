@@ -1,0 +1,11 @@
+graph name		size	N			M		|matching|	|connect.comp|	colors		|largest.c|	time
+
+107.edges.txt	511kb	1034		26749		517			+17			=534		1016		0.093 sec
+as19991205.txt	251kb	6289		12168		1029		+275		=1304		6009		0.203 sec
+as20000102.txt	260kb	6474		12572		1048		+271		=1319		6201		0.203 sec
+1912.edges.txt	586kb	747			30025		372			+5			=377		740			0.047 sec
+Email-Enron.txt	3954kb	36692		183831		12198		+2170		=14368		33397		8.882 sec
+CA-CondMat.txt	2363kb	23133		93439		10970		+1947		=12917		20297		2.434 sec
+CA-AstroPh.txt	5160kb	18771		198050		9150		+1133		=10283		17209		2.73 sec
+erdosrenyi.txt	3590kb	30000		300000		15000		+1			=15001		30000		0.592 sec
+Cit-HepTh.txt	5446kb	27769		352285		13746		+1367		=15113		26221		4.922 sec
